@@ -106,20 +106,6 @@ para informações mais precisas.
 A escolha de linguagem para trabalhar nesse site foi algo desafiador, os membros com pouca experiência em programação, por tanto, foi decidido pesquisar em livros e sites para chegarmos a uma conclusão. 
 
 ## Recursos de inseridos 🧰
-##### Página inicial
-![inicial](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/f51a4c55-1dba-4bb7-83ae-f479b177d7f8)
-
-##### Cadastro
-![cadastro](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/1ff14dac-70ad-4932-b5c8-721eb3c7a9b0)
-
-##### Login
-![login](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/425c72bf-8347-49b5-a9d5-ab35e62bbbfb)
-
-##### Interação
-![interação](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/917519e8-d43c-47a8-97a7-6752f7914161)
-
-##### Perfil
-![perfil](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/fbcf270a-0ba8-41d0-b159-7707a190ee0b)
 
 
 📝 Tarefa 1
@@ -131,16 +117,14 @@ Modo anônimo
 Filtro por categoria
 
 ## Desenvolvedores/Contribuintes:
-##### Front-end:
-- Gabriel Pedro;
+- Gabriel Viegas;
+- Gustavo Costa;
 - Gustavo Luz;
-##### Back-end:
 - Guilherme Reis;
 - Lincoln Barsotti;
-##### Documentação:
-- Gabriel Viegas;
+
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ 2023 - Lag
+## Copyright ©️ 2023 - BuscaTrampo
