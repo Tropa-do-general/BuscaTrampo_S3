@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+:root{
+    --cor-principal: #222222;
+    --cor-secundaria: #E8E8E0;
+    --cor-terciaria:#00515E;
+    --fonte-usada:'Open Sans', sans-serif;
+}
+body{
+    box-sizing: border-box;
+    height: 100vh;
+}
+body, .container-preto, .container-branco, .botoes_login-cadastro{
+    display: flex;
+}
+.container-branco, .container-preto, .botoes_login-cadastro{
+    flex-direction: column;
+    align-items: center;
+}
+.container-preto{
+    width: 57%;
+    background-color: var(--cor-principal);
+}
+.container-preto p, .container-preto strong{
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-usada);
+    text-align: center;
+}
+#bt-logo{
+    margin: 5.3125rem 0;
+}
+.container-preto p{
+    font-size: 1.75rem;
+    font-weight: 400;
+
+    margin-bottom: 0.75rem;
+}
+.container-preto strong{
+    font-size: 1.875rem;  
+    font-weight: 800;
+}
+
+.container-branco{
+    width: 43%;
+    background-color: var(--cor-secundaria);
+}
+.container-branco p{
+    color: var(--cor-principal);
+    font-family: var(--fonte-usada);
+    text-align: center;
+    font-size: 1.75rem;
+    font-weight: 400;
+
+    margin-top: 4.6875rem;
+}
+#gt-logo{
+    margin-top: 1.5625rem;
+    margin-bottom: 17rem;
+}
+.botoes_login-cadastro{
+    gap: 3rem;
+    width: 100%;
+}
+#botao_login, #botao_cadastro{
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-usada);
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-decoration: none;
+
+    border-radius: 1rem;
+    width: 76%;
+    padding: 0.875rem 0;
+    background-color: var(--cor-terciaria);
+} 
