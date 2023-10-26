@@ -1,6 +1,6 @@
 # BuscaTrampo
 ## Versão: 1.0 
-## Status do Projeto: ⚠️ Em andamento 
+## Status do Projeto:          Em andamento  ⚠️  
 
 
 
