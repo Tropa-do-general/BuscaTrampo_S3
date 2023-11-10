@@ -68,6 +68,8 @@ para informações mais precisas.
 
 - Junit;
 
+## Banco de Dados
+
 ## Linguagens, dependencias e libs utilizadas 📚
 
 ##### Prototipação:
